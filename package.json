@@ -1,5 +1,5 @@
 {
-  "name": "PointerGestures",
+  "name": "Polymer-PointerGestures",
   "description": "Rich gestures that work on both desktop and mobile",
   "version": "0.2.4",
   "main": "Gruntfile.js",
